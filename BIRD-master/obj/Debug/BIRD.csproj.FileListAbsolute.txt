@@ -1,0 +1,14 @@
+D:\Pulpit\opp\BIRD\bin\Debug\BIRD.exe.config
+D:\Pulpit\opp\BIRD\bin\Debug\BIRD.exe
+D:\Pulpit\opp\BIRD\bin\Debug\BIRD.pdb
+D:\Pulpit\opp\BIRD\obj\Debug\BIRD.csprojAssemblyReference.cache
+D:\Pulpit\opp\BIRD\obj\Debug\BIRD.exe
+D:\Pulpit\opp\BIRD\obj\Debug\BIRD.pdb
+X:\Desktop\BIRD\bin\Debug\BIRD.exe.config
+X:\Desktop\BIRD\bin\Debug\BIRD.exe
+X:\Desktop\BIRD\bin\Debug\BIRD.pdb
+X:\Desktop\BIRD\obj\Debug\BIRD.csprojAssemblyReference.cache
+X:\Desktop\BIRD\obj\Debug\BIRD.exe
+X:\Desktop\BIRD\obj\Debug\BIRD.pdb
+X:\Desktop\BIRD\bin\Debug\09-Jolka.wav
+D:\Pulpit\opp\BIRD\bin\Debug\tło.wav
